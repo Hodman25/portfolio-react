@@ -1,8 +1,9 @@
 import Footer from "../components/footer";
+import Header from "../components/header";
 
 export default function Contact (){
     return<>
-
+<Header />
      <div className="mb-20 overflow-hidden ">
         <h2 class="text-2xl font-bold mb-5 text-center mt-6 ">Get In Touch</h2>
      <div className="">

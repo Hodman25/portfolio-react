@@ -6,7 +6,10 @@ import Footer from '../components/footer'
 
 
 export default function About(){
-  return   <div className="w-full  bg-gradient-to-r from-black via-blue-950 to-blue-950 text-white">
+  return <>
+<Header />
+    <div className="w-full  bg-gradient-to-r from-black via-blue-950 to-blue-950 text-white">
+    
   <div className="pb-20 pt-10 overflow-hidden ">
     <div className="text-center sm:text-4xl text-2xl  font-bold font-serif bg-gradient-to-r from-pink-600 via-blue-500 to-pink-700 bg-clip-text text-transparent   ">
       <h1>ABOUT ME</h1>
@@ -76,4 +79,5 @@ export default function About(){
   </div>
   <Footer />
   </div>
+    </>
 }

@@ -1,7 +1,5 @@
 import imageOne from '../assets/portfolio_img-removebg-preview.png'
 import imageTwo from '../assets/ProjectOne.png'
-import imageThree from '../assets/ProjectTwo.png'
-import imageFour from '../assets/ProjectThree.png'
 import hackathon from '../assets/hackathon.jpg'
 import seminar from '../assets/seminar.jpg'
 import seminar2 from '../assets/seminar2.jpg'
@@ -12,10 +10,11 @@ import imageOnee from '../assets/1645a11bcf6ac25fbc29b50c018ea0c3.jpg'
 import Project from '../components/project'
 import Footer from '../components/footer'
 import { NavLink } from 'react-router-dom'
+import Header from '../components/header'
 
 export default function Home(){
   return<>
-  
+  <Header/>
    <div className="w-full  bg-gradient-to-r from-black via-blue-950 to-blue-950 text-white">
 
 
