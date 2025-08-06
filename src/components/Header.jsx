@@ -26,7 +26,7 @@ export default function Header(){
     </div>
 
         {/* mobile */}
-            <div  style={{display: count === true ? 'block' : ''}} className=" hidden bg-gradient-to-r from-black via-blue-950 to-blue-950 text-white  sm:hidden bg-blue-800 w-full h-[150px]  text-white  sm:ml-0  text-right overflow-hidden ">
+            <div style={{display: count === true ? 'block' : ''}}  className=" hidden bg-gradient-to-r from-black via-blue-950 to-blue-950 text-white  sm:hidden bg-blue-800 w-full h-[150px]  text-white  sm:ml-0  text-right overflow-hidden ">
                 <ul className="text-center space-y-10 mt-6  ">
                     <NavLink to='/'>  <li>Home</li></NavLink>
          <NavLink to='/about'> <li>About</li></NavLink>
