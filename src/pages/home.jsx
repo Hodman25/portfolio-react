@@ -1,5 +1,5 @@
 import imageOne from '../assets/portfolio_img-removebg-preview.png'
-import imageTwo from '../assets/ProjectOne.png'
+import imageTwo from '../assets/projectOne.png' 
 import hackathon from '../assets/hackathon.jpg'
 import seminar from '../assets/seminar.jpg'
 import seminar2 from '../assets/seminar2.jpg'
