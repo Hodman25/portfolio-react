@@ -1,5 +1,5 @@
 import imageOne from '../assets/portfolio_img-removebg-preview.png'
-import imageTwo from '../assets/projectOne.png' 
+import imageFour from '../assets/tasbeh.png'
 import hackathon from '../assets/hackathon.jpg'
 import seminar from '../assets/seminar.jpg'
 import seminar2 from '../assets/seminar2.jpg'
@@ -38,7 +38,7 @@ export default function Home(){
   </div>
     <div className='pb-10 sm:ml-10 ml-3 mt-20 flex sm:flex-row flex-col gap-10'>
 
-  <Project title='stream Landing page' image={imageTwo} />
+  <Project title='tasbeeh project' image={imageFour} />
   <Project title='landing page' image={game} />
   <Project title='word Analytics in js' image={word} />
     </div>
