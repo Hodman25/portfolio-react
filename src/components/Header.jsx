@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { NavLink } from "react-router-dom";
 
-export default function Header(){
+export default function header(){
 
       const [count, setCount] = useState(false)
    const handleClick = () => {

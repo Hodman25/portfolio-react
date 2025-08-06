@@ -1,5 +1,5 @@
 import Footer from "../components/footer";
-import Header from "../components/header";
+import Header from "../components/header"
 // Hello test
 
 export default function Contact (){

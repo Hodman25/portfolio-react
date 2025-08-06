@@ -1,8 +1,9 @@
 import imageOnee from '../assets/1645a11bcf6ac25fbc29b50c018ea0c3.jpg'
 import vsCode from '../assets/vs code.png'
 import figma from '../assets/Figma-logo.svg-removebg-preview.png'
-import Header from '../components/header'
 import Footer from '../components/footer'
+
+import Header from "../components/header"
 
 
 export default function About(){
