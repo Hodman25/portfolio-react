@@ -1,5 +1,5 @@
 import Project from "../components/project";
-import imageThree from '../assets/ProjectTwo.png'
+import imageThree from '../assets/projectTwo.png'
 import imageFour from '../assets/tasbeh.png'
 import calculator from '../assets/calculator.png'
 import clock from '../assets/clock.png'
