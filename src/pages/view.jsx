@@ -6,7 +6,7 @@ import clock from '../assets/clock.png'
 import stream from '../assets/stream.png'
 import medical from '../assets/medical.png'
 import Footer from "../components/footer";
-import Header from "../components/header";
+import Header from "../components/Header";
 export default function View(){
     return <>
     <Header/>

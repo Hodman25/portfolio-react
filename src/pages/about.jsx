@@ -3,7 +3,7 @@ import vsCode from '../assets/vs code.png'
 import figma from '../assets/Figma-logo.svg-removebg-preview.png'
 import Footer from '../components/footer'
 
-import Header from "../components/header"
+import Header from "../components/Header"
 
 function About(){
   return <>
