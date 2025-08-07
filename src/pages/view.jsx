@@ -6,8 +6,10 @@ import clock from '../assets/clock.png'
 import stream from '../assets/stream.png'
 import medical from '../assets/medical.png'
 import Footer from "../components/footer";
+import Header from "../components/header";
 export default function View(){
     return <>
+    <Header/>
       <div className='pb-10 sm:ml-10 ml-3 mt-20  grid sm:grid-cols-3 grid-cols-1  gap-10'>
        <Project title='Clock Project' image={clock}  />
       <Project title='Tourist Landing page' image={imageThree} />

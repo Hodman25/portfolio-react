@@ -5,8 +5,7 @@ import Footer from '../components/footer'
 
 import Header from "../components/header"
 
-
-export default function About(){
+function About(){
   return <>
 <Header />
     <div className="w-full  bg-gradient-to-r from-black via-blue-950 to-blue-950 text-white">
@@ -82,3 +81,5 @@ export default function About(){
   </div>
     </>
 }
+
+export default About

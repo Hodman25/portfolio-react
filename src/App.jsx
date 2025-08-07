@@ -5,7 +5,7 @@ import About from "./pages/about";
 import Contact from "./pages/contact";
 import View from "./pages/view";
 
-export default function App(){
+function App(){
   return <>
  <div className="w-full  bg-gradient-to-r from-black via-blue-950 to-blue-950 text-white"> 
 <Routes>
@@ -17,3 +17,4 @@ export default function App(){
  </div>
   </>
 }
+export default App
