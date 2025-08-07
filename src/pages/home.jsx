@@ -10,7 +10,7 @@ import imageOnee from '../assets/1645a11bcf6ac25fbc29b50c018ea0c3.jpg'
 import Project from '../components/project'
 import Footer from '../components/footer'
 import { NavLink } from 'react-router-dom'
-import Header from "../components/header"
+import Header from '../components/header'
 
 export default function Home(){
   return<>
