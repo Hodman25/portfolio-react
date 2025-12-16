@@ -13,11 +13,11 @@ export default function View(){
     <Header/>
       <div className='pb-10 sm:ml-10 ml-3 mt-20  grid sm:grid-cols-3 grid-cols-1  gap-10'>
        <Project title='Clock Project' image={clock} link='https://clock-beryl-six.vercel.app/' />
-      <Project title='Tourist Landing page' image={imageThree} />
+      <Project title='Tourist Landing page' link='ttps://e-learning-gnck3dje0-ancaams-projects.vercel.app/' image={imageThree} />
       <Project title='Stream Landing page' image={stream} link='https://stream-web-ilbv.vercel.app/' />
-      <Project title='calculator' image={calculator} />
+      {/* <Project title='calculator' image={calculator} /> */}
       <Project title='small-flower shop' image={greenMini} link='https://plant-e-comerce-p45jeiw6t-ancaams-projects.vercel.app/' />
-      <Project title=' Tabeeh project' image={imageFour} />
+      <Project title=' Tabeeh project' link='https://tasbeeh-project.vercel.app/' image={imageFour} />
         </div>
 
         <Footer />
