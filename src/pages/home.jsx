@@ -8,7 +8,8 @@ import imageOnee from '../assets/1645a11bcf6ac25fbc29b50c018ea0c3.jpg'
 import vsCode from '../assets/vs code.png'
 import figma from '../assets/Figma-logo.svg-removebg-preview.png'
 import mee from '../assets/mee.jpg'
-import bgremove from '../assets/bg-remove.png'
+import bgremove from '../assets/portfolio_img-removebg-preview.png'
+// import bgremove from '../assets/bg-remove.png'
 import imageThree from '../assets/projectTwo.png'
 // import medical from '../assets/medical.png'
 import ecommerce from '../assets/ecomerce.png'
@@ -42,7 +43,7 @@ export default function Home(){
     </div>
   </div>
 
-  <img className='w-[240px] md:h-[450px] md:ml-0 ml-4  mb-10 md:scale-150  ' src={bgremove} alt="" />
+  <img className='w-[240px] md:h-[400px] md:ml-0 ml-4  mb-10 md:scale-150  ' src={bgremove} alt="" />
   </div>
 </section>
 
@@ -77,7 +78,7 @@ export default function Home(){
       <h1 className='-mt-10'>ABOUT ME</h1>
     </div>
     <div className="flex sm:flex-row flex-col justify-center gap-10">
-    <img className='md:w-[250x] w-[250px] sm:h-[450px] h-[520px] rounded-full border-2 border-blue-800 md:ml-20 ml-10  ' src={bgremove} alt="" />
+    <img className='md:w-[250x] w-[250px] sm:h-[450px] h-[500px] rounded-full border-2 border-blue-800 md:ml-20 ml-10  ' src={bgremove} alt="" />
     <div className="md:w-[600px] w-[350px] md:ml-0 ml-2 mt-40 text-xl">
       <h1> Hi, I’m <i className='font-semibold'> HOD<span className='text-pink-600'>AN</span>, </i>a passionate Full-Stack Developer with a strong focus on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into functional digital solutions by combining powerful backend logic with sleek and interactive frontend designs.
 
