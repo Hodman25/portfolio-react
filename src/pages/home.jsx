@@ -10,7 +10,8 @@ import figma from '../assets/Figma-logo.svg-removebg-preview.png'
 import mee from '../assets/mee.jpg'
 import bgremove from '../assets/bg-remove.png'
 import imageThree from '../assets/projectTwo.png'
-import medical from '../assets/medical.png'
+// import medical from '../assets/medical.png'
+import ecommerce from '../assets/ecomerce.png'
 import skillHub from '../assets/skillHub.png'
 // import skillHub from '../assets/skillHub.png'
 
@@ -60,7 +61,7 @@ export default function Home(){
   </div>
     <div className='pb-10 sm:ml-10 ml-3 mt-20 flex sm:flex-row flex-col gap-10'>
 
-  <Project title='Hospital Landing-Page' image={medical} link='https://medical-web-95rx.vercel.app/' />
+  <Project title='E-commerce' image={ecommerce} link='https://e-commerce-three-black-36.vercel.app/' />
   <Project title='E-Learning platform' image={skillHub} link='https://e-learning-gnck3dje0-ancaams-projects.vercel.app/' />
   <Project title='word Analytics in js' image={word} link='https://word-analytics-seven-ruddy.vercel.app/' />
     </div>
