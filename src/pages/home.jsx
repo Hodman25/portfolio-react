@@ -63,7 +63,7 @@ export default function Home(){
     <div className='pb-10 sm:ml-10 ml-3 mt-20 flex sm:flex-row flex-col gap-10'>
 
   <Project title='E-commerce' image={ecommerce} link='https://e-commerce-three-black-36.vercel.app/' />
-  <Project title='E-Learning platform' image={skillHub} link='https://e-learning-gnck3dje0-ancaams-projects.vercel.app/' />
+  <Project title='E-Learning platform' image={skillHub} link='https://e-learning-five-swart.vercel.app/' />
   <Project title='word Analytics in js' image={word} link='https://word-analytics-seven-ruddy.vercel.app/' />
     </div>
 </section>

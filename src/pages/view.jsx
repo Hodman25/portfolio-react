@@ -13,7 +13,7 @@ export default function View(){
     <Header/>
       <div className='pb-10 sm:ml-10 ml-3 mt-20  grid sm:grid-cols-3 grid-cols-1  gap-10'>
        <Project title='Clock Project' image={clock} link='https://clock-beryl-six.vercel.app/' />
-      <Project title='Tourist Landing page' link='ttps://e-learning-gnck3dje0-ancaams-projects.vercel.app/' image={imageThree} />
+      <Project title='Tourist Landing page' link='https://tourist-biromy8sc-ancaams-projects.vercel.app/' image={imageThree} />
       <Project title='Stream Landing page' image={stream} link='https://stream-web-ilbv.vercel.app/' />
       {/* <Project title='calculator' image={calculator} /> */}
       <Project title='small-flower shop' image={greenMini} link='https://plant-e-comerce-p45jeiw6t-ancaams-projects.vercel.app/' />
